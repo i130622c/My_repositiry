@@ -22,6 +22,6 @@ public class Main{
 				answer.append("NO\n");	
 			}
 		}
-		System.out.println(answer);
+		System.out.print(answer);
 	}	
 }
